@@ -16,3 +16,5 @@ LIST OF ALGORITHMS USED:
 ● Decision Tree Classifier
 ● Artificial Neural Network
 ● Support Vector Machine
+
+REST Server is created using TensorFlow Extension and TensorFlow Serving and a POST request can be sent ot the server to receive a prediction response.
