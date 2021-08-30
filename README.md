@@ -17,4 +17,6 @@ LIST OF ALGORITHMS USED:
 ● Artificial Neural Network
 ● Support Vector Machine
 
+![image](https://user-images.githubusercontent.com/16652234/131415000-b3293293-aff9-4b4c-bcef-5f56a5722531.png)
+
 REST Server is created using TensorFlow Extension and TensorFlow Serving and a POST request can be sent ot the server to receive a prediction response.
